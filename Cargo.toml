@@ -2,6 +2,8 @@
 name = "nexus-api"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+readme = "README.md"
 description = "A high level api for nexus based on nexus-lib"
 
 [dependencies]
